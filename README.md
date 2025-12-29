@@ -7,7 +7,7 @@
 [![npm](https://img.shields.io/npm/v/ruvector.svg)](https://www.npmjs.com/package/ruvector)
 [![@ruvector/sona](https://img.shields.io/npm/v/@ruvector/sona.svg?label=%40ruvector%2Fsona)](https://www.npmjs.com/package/@ruvector/sona)
 [![Rust](https://img.shields.io/badge/rust-1.77%2B-orange.svg)](https://www.rust-lang.org)
-[![Build](https://img.shields.io/github/actions/workflow/status/ruvnet/ruvector/ci.yml?branch=main)](https://github.com/ruvnet/ruvector/actions)
+[![Build](https://img.shields.io/github/actions/workflow/status/davidakpele/ruvector/ci.yml?branch=main)](https://github.com/davidakpele/ruvector/actions)
 [![Docs](https://img.shields.io/badge/docs-latest-brightgreen.svg)](./docs/)
 
 **A distributed vector database that learns.** Store embeddings, query with Cypher, scale horizontally with Raft consensus, and let the index improve itself through Graph Neural Networks.
@@ -646,7 +646,7 @@ Production-ready examples demonstrating RuVector integration patterns, from cogn
 | @ruvector/replication | Multi-master replication | Crate ready |
 | @ruvector/scipix | Scientific OCR (LaTeX/MathML) | Crate ready |
 
-See [GitHub Issue #20](https://github.com/ruvnet/ruvector/issues/20) for multi-platform npm package roadmap.
+See [GitHub Issue #20](https://github.com/davidakpele/ruvector/issues/20) for multi-platform npm package roadmap.
 
 ```bash
 # Install all-in-one package
@@ -766,7 +766,7 @@ MIT License — free for commercial and personal use.
 
 <div align="center">
 
-**Built by [rUv](https://ruv.io)** • [GitHub](https://github.com/ruvnet/ruvector) • [npm](https://npmjs.com/package/ruvector) • [Docs](./docs/)
+**Built by [rUv](https://ruv.io)** • [GitHub](https://github.com/davidakpele/ruvector) • [npm](https://npmjs.com/package/ruvector) • [Docs](./docs/)
 
 *Vector search that gets smarter over time.*
 
